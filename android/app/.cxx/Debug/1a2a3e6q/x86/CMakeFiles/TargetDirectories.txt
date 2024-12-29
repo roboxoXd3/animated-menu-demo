@@ -1,0 +1,2 @@
+/Users/rian/Downloads/portfolio/cool_animation/android/app/.cxx/Debug/1a2a3e6q/x86/CMakeFiles/edit_cache.dir
+/Users/rian/Downloads/portfolio/cool_animation/android/app/.cxx/Debug/1a2a3e6q/x86/CMakeFiles/rebuild_cache.dir
