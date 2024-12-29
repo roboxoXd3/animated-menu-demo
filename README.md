@@ -2,6 +2,12 @@
 
 A Flutter application demonstrating an elegant animated radial menu with smooth transitions and intuitive user interactions.
 
+## Demo
+
+<p align="center">
+  <img src="assets/app_demo.gif" alt="Animated Menu Demo" width="300"/>
+</p>
+
 ## Overview
 
 This project implements a customizable animated menu that expands in a semi-circular arc pattern. The menu features smooth animations, tactile feedback, and a modern design following Material Design principles.
